@@ -1,8 +1,11 @@
 ﻿<Properties StartupItem="Android/XamarinFormsGestureRecognizers.Droid.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsGestureRecognizers/App.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.API_19" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsGestureRecognizers/ContentPage2.cs">
     <Files>
       <File FileName="XamarinFormsGestureRecognizers/App.cs" Line="1" Column="1" />
+      <File FileName="XamarinFormsGestureRecognizers/ContentPage1.cs" Line="1" Column="1" />
+      <File FileName="XamarinFormsGestureRecognizers/ContentPage2.cs" Line="21" Column="1" />
+      <File FileName="XamarinFormsGestureRecognizers/MyTabbedPage.cs" Line="11" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

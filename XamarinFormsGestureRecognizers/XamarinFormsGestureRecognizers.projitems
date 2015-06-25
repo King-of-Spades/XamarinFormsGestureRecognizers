@@ -11,5 +11,8 @@
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)FancyLabel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MyTabbedPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ContentPage1.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ContentPage2.cs" />
   </ItemGroup>
 </Project>

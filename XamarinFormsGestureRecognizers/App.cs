@@ -17,9 +17,11 @@ namespace XamarinFormsGestureRecognizers
 			tapGestureRecognizer.Tapped += (sender, e) => Console.WriteLine ("Tapped");
 			fancyLabel.GestureRecognizers.Add (tapGestureRecognizer);
 
-			return new ContentPage { 
-				Content = fancyLabel
-			};
+//			return new ContentPage { 
+//				Content = fancyLabel
+//			};
+
+			return new MyTabbedPage { };
 		}
 	}
 }
